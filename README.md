@@ -24,7 +24,7 @@ Before installing, ensure you have the following:
    - Select one or more packages in the table and click **Sign-Out Package** to change the status of an existing package to "Delivered" status.
    - Select one or more packages in the table and click **Remove Packages** to remove an existing package from the table.
    - Click **Clear Table** to remove all existing packages from the table at once.
-3. Since some actions are destructive and irreversible, a pop-up confrimation is used to avoid accidental deletion of data. 
+3. Since some actions are destructive and irreversible, a pop-up confirmation is used to avoid accidental deletion of data. 
 
 ---
 
