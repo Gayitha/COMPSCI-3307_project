@@ -16,13 +16,6 @@ Before installing, ensure you have the following:
 - **QT Framework**: [Download here](https://www.qt.io/download)
 - **Google Test/Mock Library**: [Install instructions](https://github.com/google/googletest)
 
-### Installation
-
-1. Clone the repository from **[GitHub](https://github.com/YourUsername/PackageManager)**:
-   ```bash
-   git clone https://github.com/YourUsername/PackageManager.git
-
-
 # Package Manager
 
 A modern implementation of a package management tool, developed as part of the **COMPSCI 3307** course at Western University. This project demonstrates advanced object-oriented programming principles, with a focus on software architecture, design patterns, and comprehensive testing.
