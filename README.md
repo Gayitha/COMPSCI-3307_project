@@ -16,23 +16,6 @@ Before installing, ensure you have the following:
 - **QT Framework**: [Download here](https://www.qt.io/download)
 - **Google Test/Mock Library**: [Install instructions](https://github.com/google/googletest)
 
-# Package Manager
-
-A modern implementation of a package management tool, developed as part of the **COMPSCI 3307** course at Western University. This project demonstrates advanced object-oriented programming principles, with a focus on software architecture, design patterns, and comprehensive testing.
-
----
-
-## Getting Started
-
-Follow these instructions to set up and run the package manager on your local machine.
-
-### Prerequisites
-
-Before installing, ensure you have the following:
-
-- **C++ Compiler**: GCC or equivalent
-- **QT Framework**: [Download here](https://www.oracle.com/java/technologies/javase-downloads.html)
-
 ## Usage
 
 1. Start the package manager application.
